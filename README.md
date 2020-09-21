@@ -4,7 +4,7 @@
   </samp>
 </h2>
 
-<img style="border-radius: 200px;" alt="GIF" width="auto" height="auto" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+![Cover](assets/cover.svg)
 
 <p align="center">
   Visitor count<br>
@@ -30,7 +30,7 @@ Currently in first year at <a href="https://www.epitech.bj" alt="Epitech Bénin"
 
 [![Github](https://img.shields.io/github/followers/blacky-yg?label=Follow%20Me&style=social)](https://github.com/blacky-yg)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/blacky_yg?label=Follow%20Me&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/blacky_yg?label=Follow%20Me&style=social)](https://twitter.com/blacky_yg)
 </h4>
 
 <br />
@@ -71,7 +71,11 @@ Currently in first year at <a href="https://www.epitech.bj" alt="Epitech Bénin"
 
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-brightgreen?style=flat)
 
-<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-181717?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-181717?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-181717?style=flat&logo=netlify&labelColor=000000)
+<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-181717?style=flat&logo=github-pages)
+
+![Heroku](https://img.shields.io/badge/-Heroku-181717?style=flat&logo=heroku&labelColor=430098)
+
+![Netlify](https://img.shields.io/badge/-Netlify-181717?style=flat&logo=netlify&labelColor=000000)
 
 ### Stats
 
@@ -88,6 +92,6 @@ Currently in first year at <a href="https://www.epitech.bj" alt="Epitech Bénin"
 
 📝 &nbsp; ***Feel free to contact me. I'm always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/hamidou-tessilimi/)
-[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:hamidtessilimi@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Hamidou%20TESSILIMI-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/hamidou-tessilimi/)
+[![Mail](https://img.shields.io/badge/Gmail-hamid.tessilimi@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:hamidtessilimi@gmail.com)
 <br>
