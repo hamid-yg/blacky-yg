@@ -37,9 +37,15 @@ Currently in first year at <a href="https://www.epitech.bj" alt="Epitech Bénin"
 
 <h2>💻Languages and Tools 🛠️</h2><br>
 
+<p style="display: flex; justify-contect: space-between;">
+
+<div>
+
 ![Git](https://img.shields.io/badge/-Git-181717?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+
+</div>
 
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-181717?style=flat&logo=visual-studio-code&labelColor=007ACC)
 
@@ -76,6 +82,8 @@ Currently in first year at <a href="https://www.epitech.bj" alt="Epitech Bénin"
 ![Heroku](https://img.shields.io/badge/-Heroku-181717?style=flat&logo=heroku&labelColor=430098)
 
 ![Netlify](https://img.shields.io/badge/-Netlify-181717?style=flat&logo=netlify&labelColor=000000)
+
+</p>
 
 ### Stats
 
