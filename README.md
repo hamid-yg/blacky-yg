@@ -1,6 +1,6 @@
 <h2 align='center'>
   <samp>
-    <strong>Hello there 🤙🏿, I'am Blacky (Hamidou TESSILIMI)</strong>
+    <strong>Hello there 🤙🏿, I'm Blacky (Hamidou TESSILIMI)</strong>
   </samp>
 </h2>
 
