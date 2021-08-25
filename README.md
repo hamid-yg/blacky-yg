@@ -31,7 +31,7 @@ I love ***learning***, ***discovering*** many things in ***computer science*** t
 - 🤔 I’m looking for help on how to adopt good practices (code, entrepreneurship)
 - 💬 Ask me about anything!
 - 📫 How to reach me: **tessilimi.hamidou@gmail.com**
-- ⚡ Fun fact: I am very organized and sometimes it scares me
+- ⚡ Fun fact: I am very organized
 
 ---
 
