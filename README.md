@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="250">
+<img src="assets/init.svg" width="250">
 </p>
 
 ---
@@ -15,8 +15,8 @@
 <p>
   <i>
 
-I'm **passionate** about **programming** and **computers** in general.
-I love ***learning***, ***discovering*** many things in ***computer science*** to be able to contribute to ***projects*** with a possible impact on the ***population***
+I'm **passionate** about **programming** and **computer science** in general.
+I love ***learning***, ***teaching***, ***discovering*** things in ***computer science*** to be able to contribute to ***projects*** with a possible impact on the ***population***
 
   </i>
 </p>
@@ -24,89 +24,16 @@ I love ***learning***, ***discovering*** many things in ***computer science*** t
 ---
 
 - 🎓 I'm currently a 3rd year student at [Epitech](https://epitech.bj)
-- 💫 I'm currently starting a part-time at [Botamp](https://www.botamp.com/?locale=en)
-- ☁ I’m currently learning **Cloud Computing** with [GADS](https://www.pluralsight.com/partners/google/africa/gads-2021?aid=7014Q0000023RnOQAU&oid=&promo=&utm_campaign=&utm_content=&utm_medium=partner_partner_web_referral&utm_source=&utm_term=)
+- 💫 I'm currently doing a part-time at [Botamp](https://www.botamp.com/?locale=en)
+- 💫 I'm currently a Microsoft Student Learn Ambassador and Postman Student Leader (Yes😅, I really like everthing about Community)
 - 📸 I’m looking to collaborate on everything about [photography](https://www.instagram.com/blacky_yg)
-- 🤔 I’m looking for help on how to adopt good practices (software engineering, code architecture, project management)
-- 💬 Ask me about anything!
-- 📫 How to reach me: **tessilimi.hamidou@gmail.com**
 - ⚡ Fun fact: I am very organized
+- 📫 How to reach me: **tessilimi.hamidou@gmail.com**
 
 ---
 
-<p align = "center">
-  <i><b>Profiles:</b></i>
-  <br><br>
-  <a href="https://github.com/blacky-yg">
-    <img align="center" alt="github" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" />&nbsp;
-  </a>
-  <a href="mailto:tessilimi.hamidou@gmail.com">
-    <img align="center" alt="gmail" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" />&nbsp;
-  </a>
-  <a href="https://www.linkedin.com/in/hamidou-tessilimi-03820a170/">
-    <img align="center" alt="linkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />&nbsp;
-  </a>
-  <a href="https://www.facebook.com/100004045645754">
-    <img align="center" alt="facebook" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />&nbsp;
-  </a>
-  <a href="https://open.spotify.com/user/vt576gh534cbmt8sqrmadbh70">
-    <img align="center" alt="Spotify" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" />&nbsp;
-  </a>
-  <a href="https://discordapp.com/users/blacky#9952">
-    <img align="center" alt="discord" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" />&nbsp;
-  </a>
-  <a href="https://twitter.com/blacky-yg">
-    <img align="center" alt="twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" />&nbsp;
-  </a>
-  <a href="https://www.instagram.com/blacky_yg/">
-    <img align="center" alt="instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />&nbsp;
-  </a>
-  <a href="https://dev.to/blacky_yg">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to" width="50px">&nbsp;
-  </a>
-  <a href="https://medium.com/@blacky_yg">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" width="50px">&nbsp;
-  </a>
-  <a href="https://hashnode.com/@blacky-yg">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="hashnode" width="50px">&nbsp;
-  </a>
-  <a href="https://app.pluralsight.com/profile/blacky-yg">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pluralsight.svg" alt="pluralsight" width="50px">&nbsp;
-  </a>
-</p>
-
-<hr>
-
 <p align="center">
-  <i><b>Code Tools:</b></i>
-  <br><br>
-  <a href="https://github.com/blacky-yg">
-    <img align="center" alt="github" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" />&nbsp;
-  </a>
-  <a href="https://github.com/blacky-yg">
-    <img align="center" alt="github" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" />&nbsp;
-  </a>
-  <a href="https://gitlab.com/blacky-yg">
-    <img align="center" alt="gitlab" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" />&nbsp;
-  </a>
-  <a href="https://codepen.io/blacky-yg">
-    <img align="center" alt="codepen" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" />&nbsp;
-  </a>
-  <a href="https://codesandbox.io/u/blacky_yg">
-    <img align="center" alt="codesandbox" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" />&nbsp;
-  </a>
-  <a href="https://stackoverflow.com/users/11542041">
-    <img align="center" alt="stackoverflow" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />&nbsp;
-  </a>
-  <a href="https://www.reddit.com/user/HamidYG">
-    <img align="center" alt="reedit" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" />&nbsp;
-  </a>
-</p>
-
-<hr>
-
-<p align="center">
-<i><b>Programming Languages</b></i>
+<i><b>Programming Languages I know and already use</b></i>
   <br><br>
   <img align="center" src="languages/c.svg" alt="pluralsight" width="50px">&nbsp;
   <img align="center" src="languages/cplusplus.svg" width="50px" />&nbsp;
@@ -133,20 +60,6 @@ I love ***learning***, ***discovering*** many things in ***computer science*** t
 </p>
 
 ---
-
-<p align="center">
-<i><b>Environments</b></i>
-  <br><br>
-  <img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" width="125px" />&nbsp;
-  <img align="center" src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" width=170px" />&nbsp;
-  <img align="center" src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white" width="125px" />&nbsp;
-  <img align="center" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white" width="125px" />&nbsp;
-  <img align="center" src="https://img.shields.io/badge/-Windows-000000?style=flat-square&logo=Windows&logoColor=white" width="125px" />&nbsp;
-  <img align="center" src="https://img.shields.io/badge/-Kde-000000?style=flat-square&logo=Kde&logoColor=white" width="100px" />&nbsp;
-  <img align="center" src="https://img.shields.io/badge/-Agenda-000000?style=flat-square&logo=GoogleCalendar&logoColor=white" width="120px" />&nbsp;
-</p>
-
-<hr>
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=blacky-yg&theme=onedark" />
