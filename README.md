@@ -23,12 +23,12 @@ I love ***learning***, ***teaching***, ***discovering*** things in ***computer s
 
 ---
 
-- 🎓 I'm currently a student at [Epitech](https://epitech.bj) and [ALX | Holberton](https://www.alxafrica.com/programme_post/full-stack-software-engineer/)
-- 💫 I'm currently doing a craftsmanship at [Trellix](http://trellix.io/)
-- 💫 I'm currently a [Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/) and [Postman Student Leader](https://www.postman.com/company/student-program/) (Yes😅, I really like everything about Community)
+- 🎓 I'm currently a 4th year student at [Epitech](https://epitech.bj)
+- 👨🏾‍💻 I'm a backend developer using NodeJs and Python
+- 💫 I'm also a [Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/) and [Postman Student Leader](https://www.postman.com/company/student-program/) (I really like everything about Community)
 - 📸 I’m looking to collaborate on everything about [photography](https://www.hamidoutessilimi.me/model)
 - ⚡ Fun fact: I am very organized
-- 📫 How to reach me: **tessilimi.hamidou@gmail.com**
+- 📫 How to reach me: **tessilimi.hamidou@gmail.com**, [Twitter](https://www.twitter.com/blacky_yg) or [Instagram](https://www.instagram.com/blacky_yg)
 
 ---
 
